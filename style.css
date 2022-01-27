@@ -1,0 +1,62 @@
+.mainStructure h1{
+    color: rgb(255, 185, 94);
+    margin: 0;
+}
+.mainStructure{
+    margin: auto;
+    margin-top: 200px;
+    background-color: rgb(36, 26, 21);
+    width: 800px;
+    height: 310px;
+    text-align: center;
+    border-radius: 10px;
+}
+.upperFulStructure{
+    margin: auto;
+    background-color: rgb(206, 199, 195);
+    width: 700px;
+    height: 150px;
+    text-align: center;
+    border-radius: 5px;
+}
+.Hole{
+    margin: auto;
+    margin-top: 5px;
+    background-color:rgb(240, 234, 230);
+    border:1px solid black;
+    border-radius: 20px;
+    width: fit-content;
+}
+.fst h2{ 
+    display: inline;
+    font-size: 30px;
+    margin: 20px;
+}
+.snd h2{ 
+    display: inline;
+    font-size: 30px;
+    margin: 20px;
+}
+.trd h2{ 
+    display: inline;
+    font-size: 30px;
+    margin: 20px;
+}
+.keySpace{
+    margin: auto;
+    margin-top: 5px;
+    background-color: rgb(61, 39, 26);
+    width: 700px;
+    height: 110px;
+    text-align: center;
+    border-radius: 5px;
+}
+button{
+    border-radius: 0 0 5px 5px;
+    height: 105px;
+    width: 40px;
+}
+.keyPressAnimetion{
+     box-shadow: 0 5px 10px 0 rgba(243, 240, 240, 0.377);
+     opacity: .7;
+}
